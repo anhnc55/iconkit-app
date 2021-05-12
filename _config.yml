@@ -42,10 +42,6 @@ features                                  :
     description                           : You can create a new app icon from scratch, get your art skills, and personalize to the highest level.
     fontawesome_icon_name                 : plus
 
-  - title                                 : High-quality wallpapers
-    description                           : 100+ wallpapers matching themes. You also can easy to create a color background image with one tap.
-    fontawesome_icon_name                 : expand
-
   - title                                 : Easy install
     description                           : Easy themes install without Shortcuts.
     fontawesome_icon_name                 : toggle-on
